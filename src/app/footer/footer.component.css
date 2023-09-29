@@ -1,0 +1,8 @@
+.app-footer-container{ /* Aqui coloca a mensagem a direita da tela  */
+  justify-content: flex-end;
+}
+
+.app-footer-container{ /* Aqui lida com a fonte das letras dentro da variavel criada*/
+  font-weight: bold;
+  font-size: 14px;
+}

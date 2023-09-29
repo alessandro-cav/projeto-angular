@@ -1,0 +1,18 @@
+.main-container{ /*aqui para criar uma div com elementos alinha em foma de colunas  e fixo no body*/
+display: flex;
+flex-direction: column;
+position: relative;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+}
+
+a{
+  color: black; /*Aqui para o links nao ficarem azul , mas sim pretos*/
+  text-decoration: none; /*os links nao teram sobrinhados*/
+}
+
+a{
+  font-size: 18px; /*qunado passar o mouse nos links , ele ira aumentar a visualização do mesmo*/
+}
